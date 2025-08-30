@@ -1,0 +1,8 @@
+{
+  "name": "Asistente SuperNum - Tu Tutor Amigo AI",
+  "description": "Un tutor amigable de IA para ayudar a estudiantes en El Salvador con Matemática.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
